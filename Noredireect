@@ -1,0 +1,7 @@
+Termux:
+
+1. pkg install php
+2. curl https://pastebin.com/raw/L60bXtWD>no-red.php
+3. php -S localhost:8080
+
+Go To Browser > http://localhost:8080
